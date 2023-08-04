@@ -13,11 +13,11 @@ His research interest is Computer Vision, Deep learning and Robotic System.
 
 Education Background
 ======
-<h3><span style="color: rgb(167, 35, 107);"><b>The Hong Kong University of Science and Technology (Guangzhou)</b></span></h3>, China (09/2022 - present)
+<h3><span style="color: rgb(167, 35, 107);"><b>The Hong Kong University of Science and Technology (Guangzhou), China (09/2022 - present)</b></span></h3>
 - Master of Philosophy (M.Phil.) <br>
 - Major: Robotics and Autonomous Systems <br>
 - Grades: 3.567 <br>
-<h3><span style="color: rgb(167, 35, 107);"><b>Northeast Agricultural University</b></span></h3>, China (09/2018 - 06/2022)
+<h3><span style="color: rgb(167, 35, 107);"><b>Northeast Agricultural University, China (09/2018 - 06/2022)</b></span></h3>
 - Bachelor of Logistics Engineering (Outstanding Graduate) <br>
 - Grades ranking: 4/42 <br>
 
