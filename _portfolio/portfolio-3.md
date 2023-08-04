@@ -1,5 +1,5 @@
 ---
-title: "Research on field crop identification and navigation based on deep learning (2019.10-2022.01, main participant) "
+title: "3. Research on field crop identification and navigation based on deep learning (2019.10-2022.01, main participant) "
 excerpt: "·Used the deep learning detection model in the edge device to detect different types of weeds and seedlings of different leaf ages in the field.
 ·The position of the weeds is transmitted to the end effector, and the pesticides are sprayed on the surface of the weeds, which greatly reduces the impact on the environment and the amount of pesticides used.
 ·With team members, propose a row anchor selection classification method to help agricultural robots track crop rows.

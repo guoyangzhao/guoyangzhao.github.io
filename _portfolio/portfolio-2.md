@@ -1,5 +1,5 @@
 ---
-title: "Soybean Seed Real-time Sorting System Based on Deep Learning (2019.05-2022.05, Project Leader)"
+title: "2. Soybean Seed Real-time Sorting System Based on Deep Learning (2019.05-2022.05, Project Leader)"
 excerpt: "·Construct a comprehensive data set by collecting images in six directions in the soybean seed space.
 ·Build a lightweight model to realize accurate recognition of soybean at different defect scales; Improved and optimized the model for real-time recognition in edge devices.
 ·Greatly improved the efficiency of soybean selection and breeding and provided a new method for the detection of ellipsoid-like surface defects.

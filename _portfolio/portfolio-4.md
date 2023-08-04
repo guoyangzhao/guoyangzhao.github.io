@@ -1,5 +1,5 @@
 ---
-title: "XXXXX"
+title: "4. XXXXX"
 excerpt: "·Mainly responsible for the construction of the perception system based on sensor fusion.
 ·Panoramic semantic segmentation of unmanned vehicle surroundings using unsupervised method.
 ·Use the improved YOLO model to identify pedestrians/facilities and use the NeRF model to reconstruct the surrounding environment.
