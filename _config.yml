@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guoyang ZHAO / Personal Website"
+title                    : "Guoyang's Website"
 title_separator          : "-"
 name                     : &name "Guoyang ZHAO"
 description              : &description "personal description"
