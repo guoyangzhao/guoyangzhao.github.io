@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Guoyang ZHAO currently is an M.Phil. student at [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) (Robotics and Autonomous Systems) Trust in [HKUST(GZ)](https://hkust-gz.edu.cn/) (The Hong Kong University of Science and Technology, Guangzhou). He under the supervision of Prof. [Ming LIU](https://seng.hkust.edu.hk/about/people/faculty/ming-liu) and co-supervised by Prof. [Lin WANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=856). Before that, he obtained the B.Sc. degree in Logistics engineering from [NEAU](http://english.neau.edu.cn/index.htm) (Northeast Agricultural University), China.
+His research interest is Computer Vision, Deep learning and Robotic System.
+
 
 A data-driven personal website
 ======
