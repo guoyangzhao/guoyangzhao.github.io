@@ -12,7 +12,6 @@ Guoyang ZHAO currently is an M.Phil. student at [ROAS](https://www.hkust-gz.edu.
 His research interest is Computer Vision, Deep learning and Robotic System.
 
 Education Background
-======
 <h3><span style="color: rgb(167, 35, 107);"><b>The Hong Kong University of Science and Technology (Guangzhou), China (09/2022 - present)</b></span></h3>
 - Master of Philosophy (M.Phil.) <br>
 - Major: Robotics and Autonomous Systems <br>
