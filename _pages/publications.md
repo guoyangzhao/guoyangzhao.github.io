@@ -17,7 +17,7 @@ Fourth Author. Wei, C., Li, H., Shi, J., Zhao, G., Feng, H., & Quan, L. (2022). 
 
 [3. Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)  \
 Third Author. IEEE Transactions on Artificial Intelligence (TAI), 2023, under review.  \
-[Download Paper](XXXX)
+[Download Paper](https://arxiv.org/pdf/2307.04470.pdf)
 
 <h2><span style="color: rgb(167, 35, 107);"><b>Patents:</b></span></h2> 
 1. An Unfixed Axis Rotating Device for Exposing the Full-Surface of Soybean Seed. CN202010797146.9, 2020. <br>
