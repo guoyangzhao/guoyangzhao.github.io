@@ -19,6 +19,10 @@ Fourth Author. Wei, C., Li, H., Shi, J., Zhao, G., Feng, H., & Quan, L. (2022). 
 Third Author. IEEE Transactions on Artificial Intelligence (TAI), 2023, under review.  \
 [Download Paper](https://arxiv.org/pdf/2307.04470.pdf)
 
+[4. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.](https://2024.ieee-icra.org/)  \
+Co-first Author. IEEE International Conference on Robotics and Automation (ICRA), 2024.  \
+[Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
+
 <h2><span style="color: rgb(167, 35, 107);"><b>Patents:</b></span></h2> 
 1. An Unfixed Axis Rotating Device for Exposing the Full-Surface of Soybean Seed. CN202010797146.9, 2020. <br>
 2. A Device for Primary Sorting and Whole Row Transportation of Soybean Seeds. CN202010797150.5, 2020. <br>
