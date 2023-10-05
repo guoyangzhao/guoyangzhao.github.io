@@ -23,8 +23,10 @@ His research interest is Computer Vision, Deep Learning, Panoramic Perception an
 
 <!-- Publications
 ====== -->
-Academic Papers:
-======
+
+Academic Papers
+====== 
+
 <!-- <h3><span style="color: rgb(167, 35, 107);"><b>Academic Papers:</b></span></h3>  -->
 [1. Real-time Recognition System of Soybean Seed Full-surface Defects Based on Deep Learning.](https://www.sciencedirect.com/science/article/abs/pii/S0168169921002477)  \
 First Author. **Zhao, G.**, Quan, L., Li, H., Feng, H., Li, S., Zhang, S., & Liu, R. (2021). Computers and Electronics in Agriculture, 187, 106230. JCR Q1, IF: 8.3 \
@@ -46,7 +48,7 @@ Co-first Author. Liu, B., **Zhao, G.**, Jiao, J., Cai, G., Li, C., Yin, H., Wang
 <!-- Liu, B., Zhao, G., Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P.
 Bonan Liu, Guoyang Zhao, Jianhao Jiao, Guang Cai, Chengyang Li, Handi Yin, Yuyang Wang, Ming Liu and Pan Hui -->
 
-Selected Awards:
+Selected Awards
 ======
 <!-- <h3><span style="color: rgb(167, 35, 107);"><b>Selected Awards:</b></span></h3>  -->
 1. Third Prize of the 17th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition (leader) 03/2022 <br>
