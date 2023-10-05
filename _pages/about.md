@@ -49,9 +49,9 @@ Co-first Author. IEEE International Conference on Robotics and Automation (ICRA)
 6. National Excellent Project of College Students’ Innovation and Entrepreneurship Training Program (leader) 04/2020 <br>
 7. Second Prize of the First National College Students’ Intelligent Mechatronics System Innovation Design Competition 12/2019 <br>
 
-NEWs!!!
+<!-- NEWs!!!
 ======
-Waiting for updates!
+Waiting for updates! -->
 
 Skills
 ======
@@ -65,4 +65,4 @@ Skills
 
 For more info
 ------
-To find out more about me, please contact my e-mail!
+To find out more about me, please contact my e-mail: zhaoguoyang361@163.com
