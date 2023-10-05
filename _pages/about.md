@@ -40,7 +40,6 @@ Fourth Author. Wei, C., Li, H., Shi, J., **Zhao, G.**, Feng, H., & Quan, L. (202
 Third Author. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), major revision.  \
 [Download Paper](https://arxiv.org/pdf/2307.04470.pdf)
 
-
 [4. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.](https://2024.ieee-icra.org/)  \
 Co-first Author. Liu, B., **Zhao, G.**, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, submitted.  \
 [Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
