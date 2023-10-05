@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Guoyang ZHAO** currently is an M.Phil. student at [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) (Robotics and Autonomous Systems) Trust in [HKUST(GZ)](https://hkust-gz.edu.cn/) (The Hong Kong University of Science and Technology, Guangzhou). He under the supervision of Prof. [Ming LIU](https://seng.hkust.edu.hk/about/people/faculty/ming-liu) and co-supervised by Prof. [Lin WANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=856). Before that, he obtained the B.Sc. degree in Logistics engineering from [NEAU](https://www.neau.edu.cn/) (Northeast Agricultural University), China. <br>
+**Guoyang ZHAO** currently is an M.Phil. student at [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) (Robotics and Autonomous Systems) Trust in [HKUST(GZ)](https://hkust-gz.edu.cn/) (The Hong Kong University of Science and Technology, Guangzhou). He under the supervision of Prof. [Ming LIU](https://seng.hkust.edu.hk/about/people/faculty/ming-liu) in [IADC](https://ram-lab.com/)(Intelligent Autonomous Driving Center) and co-supervised by Prof. [Lin WANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=856). Before that, he obtained the B.Sc. degree in Logistics engineering from [NEAU](https://www.neau.edu.cn/) (Northeast Agricultural University), China. <br>
 His research interest is **Computer Vision, Deep Learning, Panoramic Perception and Robotic System**.
 
 <!-- Education Background
@@ -82,6 +82,8 @@ To find out more about me, please contact my e-mail: zhaoguoyang361@163.com
 ------
 ------
 ------
+XXXXX
+XXXXX
 XXXXX
 XXXXX
 XXXXX
