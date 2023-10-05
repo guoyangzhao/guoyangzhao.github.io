@@ -47,7 +47,7 @@ Co-first Author. IEEE International Conference on Robotics and Automation (ICRA)
 4. Third Prize of the 8th China TRIZ Cup University Students’ Innovation Method Competition 10/2020 <br>
 5. First Prize of the 13th China College Students’ Computer Design Competition	(leader) 08/2020 <br>
 6. National Excellent Project of College Students’ Innovation and Entrepreneurship Training Program (leader) 04/2020 <br>
-7.	Second Prize of the First National College Students’ Intelligent Mechatronics System Innovation Design Competition 12/2019 <br>
+7. Second Prize of the First National College Students’ Intelligent Mechatronics System Innovation Design Competition 12/2019 <br>
 
 NEWs!!!
 ======
