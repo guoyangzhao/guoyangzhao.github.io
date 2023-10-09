@@ -36,3 +36,15 @@ Co-first Author. IEEE International Conference on Robotics and Automation (ICRA)
 3. Soybean Seed Feature Detection Software Based on Deep Learning V1.0. 2020SR1262496. <br>
 4. Faster R-CNN Corn Seedling Target Detection Software Based on MobileNet V1.0. 2019SR0768331.	<br>
 5. Weed target detection software in corn field based on Faster R-CNN with Inceptionv3. 2019SR0767177. <br>
+
+
+------
+------
+------
+------
+------
+------
+------
+------
+------
+XXXXX
