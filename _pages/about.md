@@ -50,13 +50,12 @@ Bonan Liu, Guoyang Zhao, Jianhao Jiao, Guang Cai, Chengyang Li, Handi Yin, Yuyan
 Selected Awards
 ======
 <!-- <h3><span style="color: rgb(167, 35, 107);"><b>Selected Awards:</b></span></h3>  -->
-1. Third Prize of the 17th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition (leader) 03/2022 <br>
-2. Silver Prize of the 7th China International “Internet+” Innovation and Entrepreneurship Competition (leader) 10/2021  <br>
+1. Third Prize of the 17th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition *Top-6%* (leader) 03/2022 <br>
+2. Silver Prize of the 7th China International “Internet+” Innovation and Entrepreneurship Competition *Top-0.1%* (leader) 10/2021  <br>
 3. Second Prize of the 8th China TRIZ Cup College Students’ Innovation Method Competition (leader) 10/2020  <br>
-4. Third Prize of the 8th China TRIZ Cup University Students’ Innovation Method Competition 10/2020 <br>
-5. First Prize of the 13th China College Students’ Computer Design Competition	(leader) 08/2020 <br>
-6. National Excellent Project of College Students’ Innovation and Entrepreneurship Training Program (leader) 04/2020 <br>
-7. Second Prize of the First National College Students’ Intelligent Mechatronics System Innovation Design Competition 12/2019 <br>
+4. First Prize of the 13th China College Students’ Computer Design Competition *Top-1%* (leader) 08/2020 <br>
+5. National Excellent Project of College Students’ Innovation and Entrepreneurship Training Program (leader) 04/2020 <br>
+6. Second Prize of the First National College Students’ Intelligent Mechatronics System Innovation Design Competition 12/2019 <br>
 
 <!-- NEWs!!!
 ======
@@ -64,18 +63,25 @@ Waiting for updates! -->
 
 Skills
 ======
-- Python
+<!-- - Python
 - MATLAB
 - Linux
 - Creo & SolidWorks
 - ROS
-- C++ (a little)
+- C++ (a little) -->
+- Programming: Python, MATLAB, C++ (a little)
+- Frameworks: PyTorch, ROS  
+- Tools: Docker, Pro-E & SolidWorks, Github
+
 
 For more info
 ------
 To find out more about me, please contact my e-mail: zhaoguoyang361@163.com
 
 
+------
+------
+------
 ------
 ------
 ------
