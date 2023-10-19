@@ -37,7 +37,7 @@ Academic Papers
 [Download Paper](https://drive.google.com/file/d/1SGTYsMh1vMhl_788ZPZwwfGD7qmYYDlv/view)
 
 [3. Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)  \
-*Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), major revision.  \
+*Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), accepted.  \
 [Download Paper](https://arxiv.org/pdf/2307.04470.pdf)
 
 [4. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.](https://2024.ieee-icra.org/)  \

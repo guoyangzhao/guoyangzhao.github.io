@@ -35,7 +35,7 @@ author_profile: true
 <br/><img src='/images/pub_img/field1.png' width='339' height='200'>&nbsp;<img src='/images/pub_img/field3.jpg' width='112' height='200'>&nbsp;<img src='/images/pub_img/field4.jpg' width='250' height='200'> <br>
 
 [3. Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)  \
-*Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), major revision.  \
+*Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), accepted.  \
 [Download Paper](https://arxiv.org/pdf/2307.04470.pdf)
 <br/><img src='/images/pub_img/color1.png' width='316' height='200'>&nbsp;<img src='/images/pub_img/color2.png' width='390' height='200'>&nbsp;<img src='/images/pub_img/color3.png' width='190' height='200'> <br>
 
