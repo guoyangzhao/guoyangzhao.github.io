@@ -64,13 +64,13 @@ Academic Papers
 <br/><img src='/images/pub_img/color1.png' width='158' height='100'>&nbsp;<img src='/images/pub_img/color2.png' width='195' height='100'>&nbsp;<img src='/images/pub_img/color3.png' width='95' height='100'> <br>
 
 [4. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.](https://2024.ieee-icra.org/)  \
-*Co-first Author*. Liu, B., **Zhao, G.**, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, accepted.  \
+*Co-first Author*. Liu, B.<sup>*</sup>, **Zhao, G.**<sup>*</sup>, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, accepted.  \
 [Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
 <br/><img src='/images/pub_img/point1.png' width='165' height='100'>&nbsp;<img src='/images/pub_img/point3.png' width='125' height='100'> <br>
 
 [5. CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)  \
 *First Author*. **Zhao, G.**, Ma, F., Liu, Y., Qi, W., Liu, M. IEEE Transactions on Instrumentation and Measurement, 2024, JCR Q1, IF: 5.6, submitted.  \
-[Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
+[Download Paper](https://drive.google.com/file/d/1Wty_DLOXnFltIpc8VjBWNuryerqN3unn/view)
 <br/><img src='/images/pub_img/cover-figure2.png' width='132' height='100'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.png' width='184' height='100'>&nbsp;<img src='/images/pub_img/realscene-set2.png' width='164' height='100'> <br>
 <!-- Liu, B., Zhao, G., Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P.
 Bonan Liu, Guoyang Zhao, Jianhao Jiao, Guang Cai, Chengyang Li, Handi Yin, Yuyang Wang, Ming Liu and Pan Hui -->

@@ -46,7 +46,7 @@ author_profile: true
 
 [5. CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)  \
 *First Author*. **Zhao, G.**, Ma, F., Liu, Y., Qi, W., Liu, M. IEEE Transactions on Instrumentation and Measurement, 2024, JCR Q1, IF: 5.6, submitted.  \
-[Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
+[Download Paper](https://drive.google.com/file/d/1Wty_DLOXnFltIpc8VjBWNuryerqN3unn/view)
 <br/><img src='/images/pub_img/cover-figure2.png' width='237' height='180'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.png' width='331' height='180'>&nbsp;<img src='/images/pub_img/realscene-set2.png' width='294' height='180'> <br>
 
 <h2><span style="color: rgb(167, 35, 107);"><b>Patents:</b></span></h2> 
