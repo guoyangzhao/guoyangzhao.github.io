@@ -35,15 +35,19 @@ author_profile: true
 <br/><img src='/images/pub_img/field1.png' width='339' height='200'>&nbsp;<img src='/images/pub_img/field3.jpg' width='112' height='200'>&nbsp;<img src='/images/pub_img/field4.jpg' width='250' height='200'> <br>
 
 [3. Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)  \
-*Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), accepted.  \
-[Download Paper](https://arxiv.org/pdf/2307.04470.pdf)
+*Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI).  \
+[Download Paper](https://ieeexplore.ieee.org/abstract/document/10330895)
 <br/><img src='/images/pub_img/color1.png' width='316' height='200'>&nbsp;<img src='/images/pub_img/color2.png' width='390' height='200'>&nbsp;<img src='/images/pub_img/color3.png' width='190' height='200'> <br>
 
 [4. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.](https://2024.ieee-icra.org/)  \
-*Co-first Author*. Liu, B., **Zhao, G.**, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, submitted.  \
+*Co-first Author*. Liu, B., **Zhao, G.**, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, accepted.  \
 [Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
 <br/><img src='/images/pub_img/point1.png' width='330' height='200'>&nbsp;<img src='/images/pub_img/point3.png' width='250' height='200'> <br>
 
+[5. CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)  \
+*First Author*. **Zhao, G.**, Ma, F., Liu, Y., Qi, W., Liu, M. IEEE Transactions on Instrumentation and Measurement, 2024, JCR Q1, IF: 5.6, submitted.  \
+[Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
+<br/><img src='/images/pub_img/cover-figure2.png' width='237' height='180'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.png' width='331' height='180'>&nbsp;<img src='/images/pub_img/realscene-set2.png' width='294' height='180'> <br>
 
 <h2><span style="color: rgb(167, 35, 107);"><b>Patents:</b></span></h2> 
 1. An Unfixed Axis Rotating Device for Exposing the Full-Surface of Soybean Seed. CN202010797146.9, 2020. <br>
