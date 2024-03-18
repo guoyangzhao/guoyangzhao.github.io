@@ -76,7 +76,7 @@ Academic Papers
 [6. Every Dataset Counts Scaling up Monocular 3D Object Detection with Joint Datasets Training.](https://iros2024-abudhabi.org/)  \ 
 *Third Author*. Ma, F., Yan, X., **Zhao, G.**, Xu, X., Liu, Y., & Liu, M. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, submitted.  \ 
 [Download Paper](https://drive.google.com/file/d/1o8jSvxTbXjizPXKSlJUZPVzoBqV5EFW6/view?usp=sharing) 
-<br/><img src='/images/pub_img/3d-detect-1.png' width='162' height='100'>&nbsp;<img src='/images/pub_img/3d-detect-2.png' width='310' height='90'> <br>
+<br/><img src='/images/pub_img/3d-detect-1.png' width='162' height='100'>&nbsp;<img src='/images/pub_img/3d-detect-2.png' width='310' height='100'> <br>
 
 <!-- Liu, B., Zhao, G., Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P.
 Bonan Liu, Guoyang Zhao, Jianhao Jiao, Guang Cai, Chengyang Li, Handi Yin, Yuyang Wang, Ming Liu and Pan Hui -->
