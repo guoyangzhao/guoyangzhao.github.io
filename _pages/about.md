@@ -72,6 +72,12 @@ Academic Papers
 *First Author*. **Zhao, G.**, Ma, F., Liu, Y., Qi, W., Liu, M. IEEE Transactions on Instrumentation and Measurement, 2024, JCR Q1, IF: 5.6, submitted.  \
 [Download Paper](https://drive.google.com/file/d/1Wty_DLOXnFltIpc8VjBWNuryerqN3unn/view)
 <br/><img src='/images/pub_img/cover-figure2.png' width='132' height='100'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.png' width='184' height='100'>&nbsp;<img src='/images/pub_img/realscene-set2.png' width='164' height='100'> <br>
+
+[6. Every Dataset Counts Scaling up Monocular 3D Object Detection with Joint Datasets Training.](https://iros2024-abudhabi.org/)  \ 
+*Third Author*. **Zhao, G.**, Ma, F., Liu, Y., Qi, W., Liu, M. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, submitted.  \ 
+[Download Paper](https://drive.google.com/file/d/1o8jSvxTbXjizPXKSlJUZPVzoBqV5EFW6/view?usp=sharing) 
+<br/><img src='/images/pub_img/3d-detect-1.png' width='162' height='100'>&nbsp;<img src='/images/pub_img/3d-detect-2.png' width='310' height='90'> <br>
+
 <!-- Liu, B., Zhao, G., Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P.
 Bonan Liu, Guoyang Zhao, Jianhao Jiao, Guang Cai, Chengyang Li, Handi Yin, Yuyang Wang, Ming Liu and Pan Hui -->
 
@@ -107,7 +113,6 @@ For more info
 To find out more about me, please contact my e-mail: zhaoguoyang361@163.com
 
 
-<!-- ------
 ------
 ------
 ------
@@ -116,4 +121,5 @@ To find out more about me, please contact my e-mail: zhaoguoyang361@163.com
 ------
 ------
 ------
-XXXXX -->
+------
+XXXXX
