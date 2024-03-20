@@ -27,32 +27,32 @@ author_profile: true
 [1. Real-time Recognition System of Soybean Seed Full-surface Defects Based on Deep Learning.](https://www.sciencedirect.com/science/article/abs/pii/S0168169921002477)  \
 *First Author*. **Zhao, G.**, Quan, L., Li, H., Feng, H., Li, S., Zhang, S., & Liu, R. (2021). Computers and Electronics in Agriculture, 187, 106230. JCR Q1, IF: 8.3 \
 [Download Paper](https://drive.google.com/file/d/1e9GbFJTDqGTGg2nrs4h6A_kRV9-1Uhfn/view)
-<br/><img src='/images/pub_img/soy1.jpg' width='368' height='200'>&nbsp;<img src='/images/pub_img/soy2.png' width='176' height='200'>&nbsp;<img src='/images/pub_img/soy3.png' width='200' height='200'> <br>
+<br/><img src='/images/pub_img/soy1.jpg' width='368' height='200'>&nbsp;<img src='/images/pub_img/soy2.jpg' width='176' height='200'>&nbsp;<img src='/images/pub_img/soy3.jpg' width='200' height='200'> <br>
 
 [2. Row anchor selection classification method for early-stage crop row-following.](https://www.sciencedirect.com/science/article/pii/S0168169921005949)  \
 *Fourth Author*. Wei, C., Li, H., Shi, J., **Zhao, G.**, Feng, H., & Quan, L. (2022). Computers and Electronics in Agriculture, 192, 106577. JCR Q1, IF: 8.3 \
 [Download Paper](https://drive.google.com/file/d/1SGTYsMh1vMhl_788ZPZwwfGD7qmYYDlv/view)
-<br/><img src='/images/pub_img/field1.png' width='339' height='200'>&nbsp;<img src='/images/pub_img/field3.jpg' width='112' height='200'>&nbsp;<img src='/images/pub_img/field4.jpg' width='250' height='200'> <br>
+<br/><img src='/images/pub_img/field1.jpg' width='339' height='200'>&nbsp;<img src='/images/pub_img/field3.jpg' width='112' height='200'>&nbsp;<img src='/images/pub_img/field4.jpg' width='250' height='200'> <br>
 
 [3. Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)  \
 *Third Author*. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI).  \
 [Download Paper](https://ieeexplore.ieee.org/abstract/document/10330895)
-<br/><img src='/images/pub_img/color1.png' width='316' height='200'>&nbsp;<img src='/images/pub_img/color2.png' width='390' height='200'>&nbsp;<img src='/images/pub_img/color3.png' width='190' height='200'> <br>
+<br/><img src='/images/pub_img/color1.jpg' width='316' height='200'>&nbsp;<img src='/images/pub_img/color2.jpg' width='390' height='200'>&nbsp;<img src='/images/pub_img/color3.jpg' width='190' height='200'> <br>
 
 [4. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.](https://2024.ieee-icra.org/)  \
 *Co-first Author*. Liu, B., **Zhao, G.**, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, accepted.  \
 [Download Paper](https://drive.google.com/file/d/1YiVRoMMubX1pikOf8oRoC5yxftBcIqzZ/view?usp=sharing)
-<br/><img src='/images/pub_img/point1.png' width='330' height='200'>&nbsp;<img src='/images/pub_img/point3.png' width='250' height='200'> <br>
+<br/><img src='/images/pub_img/point1.jpg' width='330' height='200'>&nbsp;<img src='/images/pub_img/point3.jpg' width='250' height='200'> <br>
 
 [5. CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)  \
 *First Author*. **Zhao, G.**, Ma, F., Liu, Y., Qi, W., & Liu, M. IEEE Transactions on Instrumentation and Measurement, 2024, JCR Q1, IF: 5.6, submitted.  \
 [Download Paper](https://drive.google.com/file/d/1Wty_DLOXnFltIpc8VjBWNuryerqN3unn/view)
-<br/><img src='/images/pub_img/cover-figure2.png' width='237' height='180'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.png' width='331' height='180'>&nbsp;<img src='/images/pub_img/realscene-set2.png' width='294' height='180'> <br>
+<br/><img src='/images/pub_img/cover-figure2.jpg' width='237' height='180'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.jpg' width='331' height='180'>&nbsp;<img src='/images/pub_img/realscene-set2.jpg' width='294' height='180'> <br>
 
 [6. Every Dataset Counts Scaling up Monocular 3D Object Detection with Joint Datasets Training.](https://iros2024-abudhabi.org/)  \
 *Third Author*. Ma, F., Yan, X., **Zhao, G.**, Xu, X., Liu, Y., & Liu, M. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, submitted.  \
 [Download Paper](https://drive.google.com/file/d/1o8jSvxTbXjizPXKSlJUZPVzoBqV5EFW6/view?usp=sharing)
-<br/><img src='/images/pub_img/3d-detect-1.png' width='162' height='100'>&nbsp;<img src='/images/pub_img/3d-detect-2.png' width='310' height='100'> <br>
+<br/><img src='/images/pub_img/3d-detect-1.jpg' width='162' height='100'>&nbsp;<img src='/images/pub_img/3d-detect-2.jpg' width='310' height='100'> <br>
 
 
 <h2><span style="color: rgb(167, 35, 107);"><b>Patents:</b></span></h2> 
@@ -71,7 +71,6 @@ author_profile: true
 
 
 
-<!-- ------
 ------
 ------
 ------
@@ -79,4 +78,5 @@ author_profile: true
 ------
 ------
 ------
-XXXXX -->
+------
+XXXXX
