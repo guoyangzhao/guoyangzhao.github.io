@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /portfolio/
+  # - title: "Projects"    ## 初步删除project一栏
+  #   url: /portfolio/
 
   - title: "Publications"
     url: /publications/

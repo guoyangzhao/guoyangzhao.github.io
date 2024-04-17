@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Guoyang ZHAO** is currently a second-year M.Phil. student at [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) (Robotics and Autonomous Systems) Trust in [HKUST(GZ)](https://hkust-gz.edu.cn/) (The Hong Kong University of Science and Technology, Guangzhou). He under the supervision of Prof. [Ming LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium) in [IADC](https://ram-lab.com/) (Intelligent Autonomous Driving Center) and co-supervised by Prof. [Lin WANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=856). Before that, he obtained a B.Sc. degree in Logistics engineering from [NEAU](https://www.neau.edu.cn/) (Northeast Agricultural University), China. <br>
+<!-- **Guoyang ZHAO** is currently a second-year M.Phil. student at [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) (Robotics and Autonomous Systems) Trust in [HKUST(GZ)](https://hkust-gz.edu.cn/) (The Hong Kong University of Science and Technology, Guangzhou). He under the supervision of Prof. [Ming LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium) in [IADC](https://ram-lab.com/) (Intelligent Autonomous Driving Center) and co-supervised by Prof. [Lin WANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=856). Before that, he obtained a B.Sc. degree in Logistics engineering from [NEAU](https://www.neau.edu.cn/) (Northeast Agricultural University), China. <br> -->
+**Guoyang ZHAO** is currently a second-year M.Phil. student at [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) (Robotics and Autonomous Systems) Trust in [HKUST(GZ)](https://hkust-gz.edu.cn/) (The Hong Kong University of Science and Technology, Guangzhou). He under the supervision of Prof. [Ming LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium) in [IADC](https://ram-lab.com/) (Intelligent Autonomous Driving Center). Before that, he obtained a B.Sc. degree in Logistics engineering from [NEAU](https://www.neau.edu.cn/) (Northeast Agricultural University), China. <br>
 His research interests are **Robotics Perception, Computer Vision, and Deep Learning**.
 
 <!-- Education Background
@@ -74,7 +75,7 @@ Academic Papers
 <br/><img src='/images/pub_img/cover-figure2.jpg' width='132' height='100'>&nbsp;<img src='/images/pub_img/3Dcurb-no-occ2.jpg' width='184' height='100'>&nbsp;<img src='/images/pub_img/realscene-set2.jpg' width='164' height='100'> <br>
 
 [6. Every Dataset Counts Scaling up Monocular 3D Object Detection with Joint Datasets Training.](https://iros2024-abudhabi.org/)  \ 
-*Third Author*. Ma, F., Yan, X., **Zhao, G.**, Xu, X., Liu, Y., & Liu, M. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, submitted.  \ 
+*Third Author*. Ma, F., Yan, X., **Zhao, G.**, Xu, X., Liu, Y., & Liu, M. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, submitted. \ 
 [Download Paper](https://drive.google.com/file/d/1o8jSvxTbXjizPXKSlJUZPVzoBqV5EFW6/view?usp=sharing) 
 <br/><img src='/images/pub_img/3d-detect-1.jpg' width='162' height='100'>&nbsp;<img src='/images/pub_img/3d-detect-2.jpg' width='310' height='100'> <br>
 
