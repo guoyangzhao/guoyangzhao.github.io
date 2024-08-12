@@ -115,8 +115,6 @@ author_profile: true
 4. Faster R-CNN Corn Seedling Target Detection Software Based on MobileNet V1.0. 2019SR0768331.	<br>
 5. Weed target detection software in corn field based on Faster R-CNN with Inceptionv3. 2019SR0767177. <br>
 
-
-
 ------
 ------
 ------
