@@ -51,10 +51,12 @@ author_profile: true
 [3. TSCLIP: Robust CLIP Fine-tuning for Worldwide Cross-Regional Traffic Sign Recognition.]()  \
 **1st author**. **Zhao, G.**, Ma, F., Qi, W., Liu, Y., & Liu, M. IEEE Robotics and Automation Letters (RA-L), 2024, **submitted**.  \
 [Download Paper](https://drive.google.com/file/d/1H-YLqSKYi86i2W-AwHUCJsL9ZwWuhnjf/view)
+<br/><img src='/images/pub_img/ts1.jpg' width='157' height='100'>&nbsp;<img src='/images/pub_img/ts3.jpg' width='100' height='100'>&nbsp;<img src='/images/pub_img/ts2.jpg' width='209' height='100'> <br>
 
 [4. Learning-based Subcategory Ground Segmentation Model for LiDAR Point Clouds.]()  \
 **1st author**. **Zhao, G.**, Ma, F., Qi, W., & Liu, M. IEEE International Conference on Robotics and Biomimetics (ROBIO), 2024, **submitted**.  \
 [Download Paper](https://drive.google.com/file/d/1QkmSDI2WfprhGF5DoJrhRYmLDF1HaNmI/view)
+<br/><img src='/images/pub_img/gseg1.jpg' width='197' height='100'>&nbsp;<img src='/images/pub_img/gseg2.jpg' width='272' height='100'> <br>
 
 [5. OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds.]()  \
 **co-1st author**. Liu, B.<sup>*</sup>, **Zhao, G.**<sup>*</sup>, Jiao, J., Cai, G., Li, C., Yin, H., Wang, Y., Liu, M., & Hui, P. IEEE International Conference on Robotics and Automation (ICRA), 2024, **accepted**.  \
@@ -64,6 +66,7 @@ author_profile: true
 [6. CLRKDNet: Speeding up Lane Detection with Knowledge Distillation.]()  \
 **2nd author**. Qi, W., **Zhao, G.**, Ma, F., Zheng, L., Ma, J., & Liu, M. IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024, **accepted**.   \
 [Download Paper](https://arxiv.org/pdf/2405.12503)
+<br/><img src='/images/pub_img/clrkd1.jpg' width='312' height='100'>&nbsp;<img src='/images/pub_img/clrkd2.jpg' width='195' height='100'> <br>
 
 [7. Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)  \
 **3rd author**. Liu, Y., Zhang, W., **Zhao, G.**, Zhu, J., Vasilakos, A., & Wang, L. (2023). IEEE Transactions on Artificial Intelligence (TAI), **published**.  \
@@ -78,10 +81,12 @@ author_profile: true
 [9. Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks.]()   \
 **3rd author**. Ma, F., Qi, W., **Zhao, G.**, Wang, S., Zheng, L., Liu, Y., & Liu, M. IEEE Transactions on Intelligent Transportation Systems (TITS), 2024, **submitted**.  \
 [Download Paper](https://arxiv.org/pdf/2404.06860) 
+<br/><img src='/images/pub_img/3dlane.jpg' width='412' height='100'><br>
 
 [10. CrackSegMamba: A Lightweight Mamba Model for Crack Segmentation.]()  \
 **3rd author**. Qi, W., Ma, F., **Zhao, G.**, Ma, J., & Liu, M. IEEE International Conference on Robotics and Biomimetics (ROBIO), 2024, **submitted**.  \
 [Download Paper](https://drive.google.com/file/d/1h-atets-PLbhGqA72rIEmm9Datyn8A-O/view) 
+<br/><img src='/images/pub_img/crack1.jpg' width='218' height='100'>&nbsp;<img src='/images/pub_img/crack2.jpg' width='208' height='100'> <br>
 
 [11. Row anchor selection classification method for early-stage crop row-following.](https://www.sciencedirect.com/science/article/pii/S0168169921005949)  \
 **4th author**. Wei, C., Li, H., Shi, J., **Zhao, G.**, Feng, H., & Quan, L. (2022). Computers and Electronics in Agriculture, 192, 106577. JCR Q1, IF: 8.3, **published**.  \
