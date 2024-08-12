@@ -14,6 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  font-size: 14px; // 这里是新添加的属性，可以根据需要调整大小
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
