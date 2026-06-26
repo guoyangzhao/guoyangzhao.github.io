@@ -3,10 +3,13 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+published: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<!-- Legacy inline homepage content. The active homepage is now _pages/home.md. -->
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}

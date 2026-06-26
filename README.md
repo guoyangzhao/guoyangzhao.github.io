@@ -1,3 +1,13 @@
+# Guoyang ZHAO Personal Homepage
+
+This repository hosts the source code for `https://guoyangzhao.github.io`.
+
+Regular content updates are now data-driven. Start with [MAINTENANCE.md](MAINTENANCE.md) for where to edit News, Publications, Awards, Education, Internships, images, and local preview commands.
+
+The original AcadHomepage template notes are kept below for reference.
+
+<details>
+<summary>Original AcadHomepage template notes</summary>
 
 <h1 align="center">
 AcadHomepage
@@ -60,9 +70,9 @@ Some examples:
 
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Run `bash run_server.sh` to start the local Jekyll server.
 1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
+1. If you change the source code of the website, the server will rebuild automatically. Refresh the browser manually.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
 # Acknowledges
@@ -70,3 +80,5 @@ Some examples:
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+
+</details>

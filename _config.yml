@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Guoyang ZHAO"
 description              : "Feel free to contact me: gzhao492@connect.hkust-gz.edu.cn. "
-repository               : "RayeRen/acad-homepage.github.io"
+url                      : "https://guoyangzhao.github.io"
+repository               : "guoyangzhao/guoyangzhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -80,6 +81,8 @@ exclude:
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
+  - MAINTENANCE.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -152,6 +155,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 

@@ -1,0 +1,43 @@
+# 📝 Publications
+
+<div class="publication-list">
+  {% for pub in site.data.publications %}
+    <article class="paper-box pub-badge">
+      <div class="publication-main">
+        <p class="publication-title">
+          <strong>{{ forloop.index }}.</strong>
+          <code>{{ pub.venue }}</code>
+          <a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a>
+        </p>
+
+        {% if pub.award %}
+          <p class="publication-award">
+            {% if pub.award_url %}
+              <a href="{{ pub.award_url }}" target="_blank" rel="noopener">🏆 {{ pub.award }}</a>
+            {% else %}
+              🏆 {{ pub.award }}
+            {% endif %}
+          </p>
+        {% endif %}
+
+        {% capture pub_authors %}{{ pub.authors | markdownify }}{% endcapture %}
+        <p class="publication-authors">{{ pub_authors | replace: '<p>', '' | replace: '</p>', '' }}</p>
+
+        <p class="publication-meta">
+          {{ pub.publication }}
+          {% for link in pub.links %}
+            <a href="{{ link.url }}" target="_blank" rel="noopener">[{{ link.label }}]</a>
+          {% endfor %}
+        </p>
+      </div>
+
+      {% if pub.images %}
+        <div class="publication-media">
+          {% for image in pub.images %}
+            <img src="{{ image.src | relative_url }}" alt="{{ image.alt | default: pub.title }}">
+          {% endfor %}
+        </div>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>

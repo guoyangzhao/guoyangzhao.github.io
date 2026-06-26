@@ -1,0 +1,8 @@
+# 💻 Internships
+
+<ul class="timeline-list">
+  {% for item in site.data.internships %}
+    {% capture item_text %}{{ item.text | markdownify }}{% endcapture %}
+    <li><span class="timeline-date">{{ item.period }}</span>, {{ item_text | replace: '<p>', '' | replace: '</p>', '' }}</li>
+  {% endfor %}
+</ul>

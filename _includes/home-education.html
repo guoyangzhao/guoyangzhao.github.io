@@ -1,0 +1,7 @@
+# 📖 Education
+
+<ul class="timeline-list">
+  {% for item in site.data.education %}
+    <li><span class="timeline-date">{{ item.period }}</span>, {{ item.degree }}, {{ item.institution }}.</li>
+  {% endfor %}
+</ul>

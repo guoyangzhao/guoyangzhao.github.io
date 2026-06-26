@@ -1,0 +1,8 @@
+# 🔥 News
+
+<ul class="timeline-list news-list">
+  {% for item in site.data.news %}
+    {% capture item_text %}{{ item.text | markdownify }}{% endcapture %}
+    <li><span class="timeline-date">{{ item.date }}</span>: {% if item.icon %}<span class="news-icon">{{ item.icon }}</span> {% endif %}{{ item_text | replace: '<p>', '' | replace: '</p>', '' }}</li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,19 @@
+# 🎖 Honors and Awards
+
+## Awards
+
+<ul class="timeline-list">
+  {% for item in site.data.awards.awards %}
+    {% capture item_text %}{{ item.text | markdownify }}{% endcapture %}
+    <li><span class="timeline-date">{{ item.date }}</span> {{ item_text | replace: '<p>', '' | replace: '</p>', '' }}</li>
+  {% endfor %}
+</ul>
+
+## Honors
+
+<ul class="timeline-list">
+  {% for item in site.data.awards.honors %}
+    {% capture item_text %}{{ item.text | markdownify }}{% endcapture %}
+    <li><span class="timeline-date">{{ item.date }}</span> {{ item_text | replace: '<p>', '' | replace: '</p>', '' }}</li>
+  {% endfor %}
+</ul>
